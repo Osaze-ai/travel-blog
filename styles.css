@@ -316,7 +316,7 @@ main .site-content .post-content > .post-image .post-info span {
 }
 
 main .post-content .post-title a {
-	font-family: var(--Josefin);
+	font-family: var(--Josefin_Sans);
 	font-size: 1.5rem;
 }
 

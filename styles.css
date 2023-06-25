@@ -317,19 +317,19 @@ main .site-content .post-content > .post-image .post-info span {
 }
 
 main .post-content .post-title a {
-	font-family: var(--Josefin_Sans);
+	font-family: var(--Josefin);
 	font-size: 1.5rem;
 }
 
 .site-content .post-content .post-title .post-btn {
 	border-radius: 0;
 	padding: 0.7rem 1.5rem;
-	background: var(--sky);
+	background: rgb(118, 233, 248);
 }
 
 .site-content .pagination {
 	justify-content: center;
-	color:rgb(60, 58, 58);
+	color:black;
 	margin: 4rem 0;
 }
 
@@ -341,8 +341,8 @@ main .post-content .post-title a {
 }
 
 .site-content .pagination .pages {
-	background: rgb(119, 114, 114);
-	color: white;
+	background: rgb(104, 206, 200);
+	color: black;
 }
 
 /* -------x-------- Site Content --------x-------*/

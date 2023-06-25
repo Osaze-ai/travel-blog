@@ -19,11 +19,11 @@ body {
 	--sky: linear-gradient(top, #a18cd1 0%, #fbc2eb 100%);
 
 	/* Theme font-family  */
-	--Abel: "Abel-Regular", cursive;
-	--Anton: "Anton-Regular", cursive;
+	--Abel: "Abel", cursive;
+	--Anton: "Anton", cursive;
 	--Josefin_Sans: "Josefin_Sans", cursive;
-	--Lexend_Deca: "LexendDeca", cursive;
-	--Livvic: "Livvic-Black", cursive;
+	--Lexend: "Lexend", cursive;
+	--Livvic: "Livvic", cursive;
 	--Livvic: "Livvic-MediumItalic", cursive;
 }
 
@@ -44,7 +44,7 @@ ul {
 }
 
 h1 {
-	font-family: var(--Josefin_Sans);
+	font-family: var(--Josefin);
 	font-size: 2.5rem;
 }
 
@@ -463,7 +463,7 @@ footer.footer .newsletter .form-element input {
 	border: none;
 	background: transparent;
 	color: white;
-	font-family: var(--Josefin_Sans);
+	font-family: var(--Josefin);
 	font-size: 1rem;
 	width: 74%;
 }
@@ -490,7 +490,7 @@ footer.footer .follow div i {
 
 footer.footer .rights {
 	justify-content: center;
-	font-family: var(--Josefin_Sans);
+	font-family: var(--Josefin);
 }
 
 footer.footer .rights h4 a {

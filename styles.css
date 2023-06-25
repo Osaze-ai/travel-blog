@@ -329,7 +329,7 @@ main .post-content .post-title a {
 
 .site-content .pagination {
 	justify-content: center;
-	color:white;
+	color:black;
 	margin: 4rem 0;
 }
 
@@ -341,8 +341,8 @@ main .post-content .post-title a {
 }
 
 .site-content .pagination .pages {
-	background: rgb(104, 206, 200);
-	color: white;
+	background: rgb(119, 114, 114);
+	color: black;
 }
 
 /* -------x-------- Site Content --------x-------*/

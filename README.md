@@ -1,6 +1,6 @@
 <img width="1280" alt="Screenshot Landing page" src="./Landingpg.png">
 
-<div align ="center">
+
 
 # Tebong Travels 
 

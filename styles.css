@@ -1,4 +1,4 @@
-@import url("../font.css");
+@import url("../travel-blog/font.css");
 
 html,
 body {
@@ -19,11 +19,11 @@ body {
 	--sky: linear-gradient(top, #a18cd1 0%, #fbc2eb 100%);
 
 	/* Theme font-family  */
-	--Abel: "Abel", cursive;
-	--Anton: "Anton", cursive;
+	--Abel: "Abel-Regular", cursive;
+	--Anton: "Anton-Regular", cursive;
 	--Josefin_Sans: "Josefin_Sans", cursive;
-	--Lexend: "Lexend", cursive;
-	--Livvic: "Livvic", cursive;
+	--Lexend_Deca: "LexendDeca", cursive;
+	--Livvic: "Livvic-Black", cursive;
 	--Livvic: "Livvic-MediumItalic", cursive;
 }
 

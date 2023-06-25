@@ -1,23 +1,6 @@
 <img width="1280" alt="Screenshot Landing page" src="./Landingpg.png">
 
-<h1 align  ="center">Tebong Travels 
-</h1>
 
-<div align ="center">
-  <h3>
-    <a href="" color="white">
-      Live
-    </a>
-    <span> | </span>
-    <a href="">
-      Source Code
-    </a>
-    </a>
-  </h3>
-</div>
-<br>
-<br>
-<br>
 
 # Tebong Travels 
 

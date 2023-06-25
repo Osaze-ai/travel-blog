@@ -18,13 +18,13 @@ body {
 	/* gradient color   */
 	--sky: linear-gradient(top, #a18cd1 0%, #fbc2eb 100%);
 
-	/* Theme font-family  */
+	/*      theme font-family   */
 	--Abel: "Abel", cursive;
 	--Anton: "Anton", cursive;
 	--Josefin_Sans: "Josefin_Sans", cursive;
-	--Lexend: "Lexend", cursive;
-	--Livvic: "Livvic-Black", cursive;
-	--Livvic: "Livvic-MediumItalic", cursive;
+	--Lexend_Deca: "Lexend_Deca", cursive;
+	--Lexend: "Lexennd", cursive;
+	--livvic-Light: "Livvic-Light", cursive;
 }
 
 /*---------- Global Classes ------------*/
@@ -44,19 +44,19 @@ ul {
 }
 
 h1 {
-	font-family: var(--Josefin_Sans);
+	font-family: var(--Josefin);
 	font-size: 2.5rem;
 }
 
 h2 {
-	font-family: var(--Anton);
+	font-family: var(--Livvic);
 	color: var(--text-gray);
 	font-size: 1.4rem;
 }
 
 h3 {
-	font-family: var(--Livvic);
-	font-size: 1.8rem;
+	font-family: var(--Josefin);
+	font-size: 1.4rem;
 }
 
 button.btn {
@@ -64,7 +64,7 @@ button.btn {
 	border-radius: 2rem;
 	padding: 1rem 3rem;
 	font-size: 1rem;
-	font-family: var(--Livvic);
+	font-family: var(--Anton);
 	cursor: pointer;
 	background-color: rgb(241, 239, 239);
 }
@@ -82,7 +82,7 @@ span {
 }
 
 p {
-	font-family: var(--Lexend);
+	font-family: var(--Josefin);
 	color: var(--text-light);
 }
 
@@ -132,10 +132,10 @@ nav .toggle-collapse .toggle-icons i {
 }
 
 .nav .nav-items .nav-link {
-	padding: 1.6rem 1rem;
+	padding: 1.4rem 1rem;
 	font-size: 1.1rem;
 	position: relative;
-	font-family: var(--Abel);
+	font-family: var(--Josefin);
 	font-size: 1.1rem;
 }
 
@@ -148,11 +148,11 @@ nav .toggle-collapse .toggle-icons i {
 }
 
 .nav .nav-brand a {
-	font-size: 1.6rem;
+	font-size: 1.5rem;
 	padding: 1rem 0;
 	display: block;
-	font-family: var(--Lexend);
-	font-family: 1.6rem;
+	font-family: var(--Livvic-Thin);
+	font-family: 1.4rem;
 }
 
 .nav .social {
@@ -293,7 +293,7 @@ main .site-content .post-content > .post-image .post-info {
 	bottom: 0%;
 	left: 20vw;
 	border-radius: 3rem;
-  cursor: pointer;
+	cursor: pointer;
 }
 
 main .site-content .post-content > .post-image > div {
@@ -358,13 +358,12 @@ main .post-content .post-title a {
 	width: 70%;
 	display: flex;
 	justify-content: space-between;
-  cursor: pointer;
+	cursor: pointer;
 }
 
 .site-content > .sidebar .category-list .list-items a {
 	color: black;
 }
-
 
 .site-content .sidebar .popular-post .post-content {
 	padding: 1rem 0;
@@ -372,7 +371,7 @@ main .post-content .post-title a {
 
 .site-content .sidebar .popular-post h2 {
 	padding-top: 8rem;
-  cursor: pointer;
+	cursor: pointer;
 }
 
 .site-content .sidebar .popular-post .post-info {
@@ -381,7 +380,7 @@ main .post-content .post-title a {
 	left: 1.5rem !important;
 	border-radius: 0rem !important;
 	background: rgb(190, 241, 252) !important;
-  cursor: pointer;
+	cursor: pointer;
 }
 
 .site-content .sidebar .popular-post .post-title a {
@@ -390,7 +389,7 @@ main .post-content .post-title a {
 
 .site-content .sidebar .newsletter {
 	padding-top: 10rem;
-  cursor: pointer;
+	cursor: pointer;
 }
 
 .site-content .sidebar .newsletter .form-element {
@@ -414,7 +413,7 @@ main .post-content .post-title a {
 
 .site-content .sidebar .popular-tags {
 	padding: 5rem 0;
-  cursor: pointer;
+	cursor: pointer;
 }
 
 .site-content .sidebar .popular-tags .tags .tag {
@@ -422,7 +421,7 @@ main .post-content .post-title a {
 	padding: 0.4rem 1rem;
 	border-radius: 3rem;
 	margin: 0.4rem 0.6rem;
-  cursor: pointer;
+	cursor: pointer;
 }
 
 /* -------x------- Sidebar -----------x----------- */
@@ -450,7 +449,7 @@ footer.footer .container > div {
 
 footer.footer .container h2 {
 	color: var(--white);
-  cursor: pointer;
+	cursor: pointer;
 }
 
 footer.footer .newsletter .form-element {
@@ -479,13 +478,13 @@ footer.footer .instagram div > img {
 	width: 25%;
 	height: 50%;
 	margin: 0.3rem 0.4rem;
-  cursor: pointer;
+	cursor: pointer;
 }
 
 footer.footer .follow div i {
 	color: var(--white);
 	padding: 0 0.4rem;
-  cursor: pointer;
+	cursor: pointer;
 }
 
 footer.footer .rights {

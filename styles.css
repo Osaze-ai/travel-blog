@@ -24,7 +24,7 @@ body {
 	--Josefin_Sans: "Josefin_Sans", cursive;
 	--Lexend: "Lexend", cursive;
 	--Livvic: "Livvic", cursive;
-	--Livviv: "Livvic-MediumItalic", cursive;
+	--Livvic: "Livvic-MediumItalic", cursive;
 }
 
 /*---------- Global Classes ------------*/
@@ -173,7 +173,7 @@ nav .toggle-collapse .toggle-icons i {
 
 /* --------------- Site title ------------------ */
 main .site-title {
-	background: url("../assets/background.jpg");
+	background: url("../travel-blog/assets/background.jpg");
 	background-size: cover;
 	height: 110vh;
 	display: flex;
@@ -209,7 +209,7 @@ main .site-title .btn:hover {
 /*------------- Blog Carousel----------------- */
 
 main .blog {
-	background: url("../assets/abstract1.jpg");
+	background: url("../travel-blog/assets/abstract1.jpg");
 	background-repeat: no-repeat;
 	background-position: right;
 	height: 100vh;

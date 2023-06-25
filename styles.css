@@ -64,7 +64,7 @@ button.btn {
 	border-radius: 2rem;
 	padding: 1rem 3rem;
 	font-size: 1rem;
-	font-family: var(--Anton);
+	font-family: var(--Josefin);
 	cursor: pointer;
 	background-color: rgb(241, 239, 239);
 }
@@ -196,6 +196,7 @@ h3 {
 main .site-title .btn {
 	margin: 1.8rem;
 	background: rgb(164, 229, 255);
+	font: 1em sans-serif;
 }
 
 main .site-title .btn:hover {
@@ -238,6 +239,7 @@ main .blog-content .btn-blog {
 	padding: 0.7rem 2rem;
 	background: rgb(159, 229, 238);
 	margin: 0.5rem;
+	font: 1em sans-serif;
 }
 
 main .blog-content span {
@@ -314,7 +316,7 @@ main .site-content .post-content > .post-image .post-info span {
 }
 
 main .post-content .post-title a {
-	font-family: var(--Anton);
+	font-family: var(--Josefin);
 	font-size: 1.5rem;
 }
 
@@ -334,7 +336,7 @@ main .post-content .post-title a {
 	padding: 0.6rem 0.9rem;
 	border-radius: 2rem;
 	margin: 0 0.3rem;
-	font-family: var(--Lexend);
+	font-family: var(--Josefin_Sans);
 }
 
 .site-content .pagination .pages {
@@ -347,7 +349,7 @@ main .post-content .post-title a {
 /* --------------- Sidebar ----------------------- */
 
 .site-content > .sidebar .category-list {
-	font-family: var(--Livvic);
+	font-family: var(--Josefin);
 }
 
 .site-content > .sidebar .category-list .list-items {

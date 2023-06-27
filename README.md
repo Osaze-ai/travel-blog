@@ -1,5 +1,6 @@
 <img width="1280" alt="Screenshot Landing page" src="./Landingpg.png">
 
+<div align="center">
   <h3>
     <a href="https://osaze-ai.github.io/travel-blog/" color="white">
       Live
@@ -8,6 +9,7 @@
     <a href="https://github.com/Osaze-ai/travel-blog/blob/main/styles.css">
       CSS
     </a>
+    </div>
 
 
 

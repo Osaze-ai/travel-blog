@@ -1,6 +1,5 @@
 <img width="1280" alt="Screenshot Landing page" src="./Landingpg.png">
 
-<div align="center">
   <h3>
     <a href="https://osaze-ai.github.io/travel-blog/" color="white">
       Live

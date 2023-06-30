@@ -67,6 +67,7 @@ button.btn {
 	font-family: var(--Josefin);
 	cursor: pointer;
 	background-color: rgb(241, 239, 239);
+	color: var(--text-gray);
 }
 
 span {

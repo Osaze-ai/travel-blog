@@ -9,6 +9,7 @@
     <a href="https://github.com/Osaze-ai/travel-blog/blob/main/styles.css">
       CSS
     </a>
+    </div>
 
 
 
